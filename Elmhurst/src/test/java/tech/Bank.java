@@ -1,6 +1,6 @@
 package tech;
 
-public class bank {
+public class Bank {
 	
 	static int myAccountBalance;
 	

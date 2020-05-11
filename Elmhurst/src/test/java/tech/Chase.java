@@ -1,6 +1,6 @@
 package tech;
 
-public class chase {
+public class Chase {
 	
 	static int grade;
 	public static void main(String[] args) {
