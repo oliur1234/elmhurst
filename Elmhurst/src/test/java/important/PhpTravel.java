@@ -26,6 +26,8 @@ public class PhpTravel {
 		  
 		  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		  
+		  driver.manage().window().maximize();
+		  
 		  //print page title
 		  
 		  System.out.println(driver.getTitle());
